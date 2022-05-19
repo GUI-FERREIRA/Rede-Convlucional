@@ -1,0 +1,5 @@
+*.ppm
+testes/
+cmake-build-debug/
+*_pycache_*
+*.idea
